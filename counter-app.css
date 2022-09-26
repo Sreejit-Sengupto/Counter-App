@@ -1,0 +1,57 @@
+body{
+    background-image: url("station.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    margin: 10px 0px;
+}
+
+#count{
+    font-size: 50px;
+    margin: 10px 10px;
+}
+
+button{
+    border: none;
+    border-radius: 6px;
+    width: 200px;
+    padding: 10px 4px;
+    margin: 4px 4px;
+    font-weight: bold;
+    font-family: inherit;
+    color: white;
+}
+
+.counter-app{
+    width: 340px;
+    margin: auto;
+    border: none;
+    background-color: #b3b3b2ff;
+    margin-top: 100px;
+    border-radius: 10px;
+    padding: 10px 0px ;
+}
+
+#id{
+    font-weight: bold;
+}
+
+#increament-btn{
+    background-color: darkred;
+}
+
+#increament-btn:hover{
+    background-color: red;
+}
+
+#save-btn{
+    background-color: darkgreen;
+}
+
+#save-btn:hover{
+    background-color: green;
+}
